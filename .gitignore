@@ -1,0 +1,7 @@
+# ignore specific file types
+# Python cache:
+__pycache__/
+*.py[cod]
+
+# environment
+.env/
